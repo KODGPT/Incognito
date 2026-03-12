@@ -70,7 +70,7 @@ https://example.com
 
 1. Скачать репозиторий
 
-git clone https://github.com/yourusername/open-in-incognito
+git clone https://github.com/KODGPT/Incognito.git
 
 2. Открыть страницу расширений Chrome
 
